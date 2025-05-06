@@ -1,4 +1,4 @@
-Course with focus on data extractions, data transformations, data loading and dashboards using dlt, dbt, duckdb and streamlit.
+Course with focus on pipelines with data extractions, data transformations, data loading and dashboards using dlt, dbt, duckdb and streamlit.
 
 ## Data engineering course schedule
 
